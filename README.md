@@ -8,5 +8,5 @@ Este proyecto es una aplicación desarrollada con Vue.js.
 - Tener instalado [npm](https://www.npmjs.com/)
 
 ## 🚀 Pasos
-- npm install
-- npm run dev
+- 1. npm install
+- 2. npm run dev
